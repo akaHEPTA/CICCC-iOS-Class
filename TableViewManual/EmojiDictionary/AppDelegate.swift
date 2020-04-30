@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  EmojiDictionary
 //
-//  Created by Derrick Park on 4/30/20.
+//  Created by Derrick Park on 4/29/20.
 //  Copyright © 2020 Derrick Park. All rights reserved.
 //
 
